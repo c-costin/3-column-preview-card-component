@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/c-costin/3-column-preview-card-component)
-- Live Site URL: [Add live site URL here](https://)
+- Solution URL: [Repo github](https://github.com/c-costin/3-column-preview-card-component)
+- Live Site URL: [Live website](https://)
 
 ## My process
 
