@@ -34,7 +34,7 @@ Users should be able to:
 ![](./screenshots/mobile375.png)
 
 #### Mobile version - Hovering :
-![](./screenshots/mobile375.png)
+![](./screenshots/mobile375hover.png)
 
 
 ### Links
