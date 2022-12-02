@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repo github](https://github.com/c-costin/3-column-preview-card-component)
-- Live Site URL: [Live website](https://)
+- Live Site URL: [Live website](https://c-costin.github.io/3-column-preview-card-component/)
 
 ## My process
 
