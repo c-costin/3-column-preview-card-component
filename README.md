@@ -27,7 +27,13 @@ Users should be able to:
 #### Desktop version :
 ![](./screenshots/desktop1440.png)
 
+#### Desktop version - Hovering :
+![](./screenshots/desktop1440hover.png)
+
 #### Mobile version :
+![](./screenshots/mobile375.png)
+
+#### Mobile version - Hovering :
 ![](./screenshots/mobile375.png)
 
 
