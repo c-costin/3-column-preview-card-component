@@ -1,6 +1,3 @@
-/* ==== FONTS ==== */
-@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
-
 /* ==== RESET STYLE ==== */
 *,
 ::before,
@@ -57,7 +54,7 @@ body {
 }
 
 .three {
-    border-radius: 0 0 0 0;
+    border-radius: 0 0 8px 8px;
     background: var(--very-dark-cyan);
 }
 
@@ -139,6 +136,5 @@ body {
 
     .three {
         border-radius: 0 8px 8px 0;
-        ;
     }
 }

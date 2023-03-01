@@ -24,23 +24,16 @@ Users should be able to:
 
 ### Screenshot
 
-#### Desktop version :
-![](./screenshots/desktop1440.png)
+#### *Mobile version :*
+![](./docs/screenshots/mobile.png)
 
-#### Desktop version - Hovering :
-![](./screenshots/desktop1440hover.png)
-
-#### Mobile version :
-![](./screenshots/mobile375.png)
-
-#### Mobile version - Hovering :
-![](./screenshots/mobile375hover.png)
-
+#### *Desktop version :*
+![](./docs/screenshots/desktop.png)
 
 ### Links
 
-- Solution URL: [Repo github](https://github.com/c-costin/3-column-preview-card-component)
-- Live Site URL: [Live website](https://c-costin.github.io/3-column-preview-card-component/)
+- Live website : [https://c-costin.github.io/3-column-preview-card-component/](https://c-costin.github.io/3-column-preview-card-component/)
+- Repo Github : [https://github.com/c-costin/3-column-preview-card-component](https://github.com/c-costin/3-column-preview-card-component)
 
 ## My process
 
@@ -54,6 +47,7 @@ Users should be able to:
 
 ### Useful resources
 
+- [Bunny Fonts](https://fonts.bunny.net/) - I used their CDN for the font.
 - [MDN web docs](https://developer.mozilla.org/en-US/) - I used this docs to remember the properties and for media queries in CSS.
 
 ## Author
